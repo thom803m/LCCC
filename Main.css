@@ -1,0 +1,86 @@
+body {
+    background-color:purple;
+    font-family:helvetica, arial, sans-serif;
+}
+
+header{
+    width: 60%;
+    min-width: 400px;
+    padding: 15px; 
+    margin:0px auto;
+    background-color: fuchsia;
+    border: 1px solid black;
+    font-size: 1.5em;
+    color: black;
+    text-align: center;
+}
+
+nav{
+    width: 60%; 
+    min-width: 400px;
+    padding: 15px; 
+    margin:0px auto;
+    background-color: violet;
+    border:1px solid black;
+    text-align: center;
+}
+
+nav li{
+    display:inline-block;
+    margin:0 15px;
+}
+
+form{
+    margin:20px;
+}
+
+#tuition{
+    text-align: center;
+}
+
+#costs{
+    text-align: center;
+    font-size: 15px;
+}
+
+#credits{
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th{
+    background-color: turquoise;
+    border:1px solid black;
+}
+
+td{
+    border:1px solid black;
+}
+
+nav ul{
+    list-style-type:none;
+}
+
+section{
+    width:60%; 
+    min-width:400px;
+    padding:15px; 
+    margin:0px auto;
+    border:1px solid black;
+    text-align: left;
+    background-color: azure;
+    color: black;
+}
+
+footer{
+    width:60%; 
+    min-width:400px;
+    padding:15px; 
+    margin:0px auto;
+    background-color: fuchsia;
+    color: black;
+    border:1px solid black;
+    text-align: left;
+}
+
